@@ -6,4 +6,4 @@ categories: [Blogging]
 tags: [博客]
 pin: true
 ---
-测试一下在github网页端写博客。
+测试一下在github网页端写博客是否会触发pages服务。
